@@ -1,7 +1,7 @@
 Package: catchment
 Type: Package
 Version: 0.0.1
-Authors@R: c(person("Jean-Marie", "Lepioufle", , "jm@nexmodeling.com", c("aut","cre")))
+Authors@R: c(person("Jean-Marie", "Lepioufle", , "me@jeanmarie.eu", c("aut","cre")))
 Title: Catchment data
 Description: A catchment dataset is embedded to this package
 Depends:
